@@ -12,3 +12,6 @@ So yapping aside, shit to do:
 
 1/1 9:29 seems like its just a ruby rails shit
 1/2 7:33 general plan is done, just take data and scrape based on the api points plain and simpple
+1/2 10:02 decided to go with a flask server
+            X make sure to put a venv, freeze the venv and upload it to git
+            _ mkae a simple http server replicate the apis with bruno
