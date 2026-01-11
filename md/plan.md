@@ -15,3 +15,6 @@ So yapping aside, shit to do:
 1/2 10:02 decided to go with a flask server
             X make sure to put a venv, freeze the venv and upload it to git
             _ mkae a simple http server replicate the apis with bruno
+1/12 18:30 had shitton of work to do so the project got delayed for a week freaking hell
+anyways, decided to go witha  simple broswer automation with tihs lib called helium? sounds cool lets test it out.
+
